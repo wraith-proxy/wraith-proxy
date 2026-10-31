@@ -17,4 +17,5 @@ I think the document is the design. A data contract, a decision record or a desi
 
 - Site and writing: [thomaspeoples.com](https://thomaspeoples.com)
 - LinkedIn: [thomas-peoples-ai-cloud-terraform-python](https://www.linkedin.com/in/thomas-peoples-ai-cloud-terraform-python)
+- YouTube: [@data-ai-tips](https://www.youtube.com/@data-ai-tips)
 - Self-hosted code: [git.thomaspeoples.com/thomaspeoples](https://git.thomaspeoples.com/thomaspeoples)
